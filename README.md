@@ -15,7 +15,7 @@ Este proyecto demuestra el uso del patrón Observer junto con programación orie
 
 ## Funcionalidad adicional  
 - Se implementó el aspecto `CounterAspect` para contar los cambios de color, demostrando cómo AspectJ puede complementar el patrón Observer y facilitar la separación de responsabilidades.
-- 
+
 ## Programa en ejecución
 ![Captura de pantalla 2025-06-10 135234](https://github.com/user-attachments/assets/83abc148-ee43-4e2c-9c87-66f11c68e575)
 ![Captura de pantalla 2025-06-10 135322](https://github.com/user-attachments/assets/925c3299-2cf2-4d48-b774-c6ba98f27561)
