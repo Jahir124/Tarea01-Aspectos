@@ -15,11 +15,6 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        ConsoleLoggerObserver consoleLogger = new ConsoleLoggerObserver();
-        CounterObserver counterObserver = new CounterObserver();
-
-        subject.addObserver(consoleLogger);
-        subject.addObserver(counterObserver);
 
         colorPane.setMinSize(300, 200);
 
