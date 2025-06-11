@@ -1,6 +1,8 @@
 # Proyecto Observer con JavaFX y AspectJ
 # Integrantes
 - Jahir Cajas
+- Pablo Naranjo
+- Juan Miñaca
 ## Descripción
 Este proyecto demuestra el uso del patrón Observer junto con programación orientada a aspectos (AOP) usando AspectJ, que es una técnica de programación que se usa para separar ciertos tipos de funcionalidades transversales (cross-cutting concerns) del código principal de la aplicación. La interfaz gráfica está desarrollada con JavaFX. 
 
