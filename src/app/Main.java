@@ -1,6 +1,7 @@
 package app;
 
 import javafx.application.Application;
+import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
@@ -37,6 +38,7 @@ public class Main extends Application {
         });
 
         VBox vbox = new VBox(10, btnRed, btnGreen, btnBlue);
+        vbox.setAlignment(Pos.CENTER);
         colorPane.getChildren().add(vbox);
 
         Scene scene = new Scene(colorPane, 400, 300);
